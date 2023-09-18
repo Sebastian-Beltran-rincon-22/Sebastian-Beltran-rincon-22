@@ -1,6 +1,6 @@
 # ¡Acerca de mi! 💻
 
-<h1 align="center"> 🐱 ¡Bienvenidos a mi perfil de GitHub! 👀</h1>
+<h1 align="center"> :shipit: ¡Bienvenidos a mi perfil de GitHub! 📎</h1>
 
 <p align="center"> Hola, Soy Sebastian un estusiasta por la tecnologia y quiero mejorar mis habilidades tanto por Software y Hardware </p>
 
@@ -53,11 +53,15 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)](https://github.com/Sebastian-Beltran-rincon-22)
 
-[![NodeJs](https://img.shields.io/badge/NodeJs-black?style=for-the-badge&logo=NodeJs)](https://github.com/Sebastian-Beltran-rincon-22)
+[![NodeJs](https://img.shields.io/badge/NodeJs-black?style=for-the-badge&logo=Node.Js)](https://github.com/Sebastian-Beltran-rincon-22)
+
+[![TRELLO](https://img.shields.io/badge/TRELLO-black?style=for-the-badge&logo=TRELLO)](https://github.com/Sebastian-Beltran-rincon-22)
+
+[![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)](https://github.com/Sebastian-Beltran-rincon-22)
 
 <hr>
 
-## Skills por aprender 💿
+## Skills por aprender 💹
 
 
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)](https://github.com/Sebastian-Beltran-rincon-22)
@@ -70,7 +74,7 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Sebastian-Beltran-rincon-22)
 
 
-# Proyectos 💾
+# Proyectos 🔝
 
 - MEAN Full Stack (Foro)
 - Express Api (Inventory System)
@@ -86,11 +90,12 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
 <hr>
 <h1> Tambien puedes contactarme por: 📱</h1>
 
-- Linkedin:
+## 🌐 Socials:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianbeltran22/)
 
-- Portafolio (Proximamente):
+[![torre.ai](https://img.shields.io/badge/torre.ai-9B9E2F?style=for-the-badge&logo=torre.ai&logoColor=yellow)](https://torre.ai/s/Ifsktp9Aqv)
+
 
 # Statistics
 
@@ -105,6 +110,8 @@ Aqui puedes apreciar algunas de  mis habilidades y estoy abiertamente a aprender
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-Beltran-rincon-22&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" width="350" >
  </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sebastian-Beltran-rincon-22&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
 
 <h1 align="center">✍️ Citas DEV Random</h1>
 
